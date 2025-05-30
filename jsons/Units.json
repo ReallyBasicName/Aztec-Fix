@@ -3,7 +3,7 @@
 		"name": "Jaguar",
 		"unitType": "Sword",
 		"uniqueTo": "Aztecs",
-		"replaces": "Longswordsman",
+		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 14,
 		"cost": 40,
@@ -12,7 +12,7 @@
 			"[Jaguar] ability",
 			"Woodsman"
 		],
-		"upgradesTo": "Swordsman",
+		"upgradesTo": "Longswordsman",
 		"attackSound": "nonmetalhit"
 	},
 ]
