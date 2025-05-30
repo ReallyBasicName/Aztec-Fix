@@ -7,8 +7,8 @@
 		"movement": 2,
 		"strength": 14,
 		"cost": 75,
-		"requiredTech": "Metal Casting",
-		"obsoleteTech": "Iron Working",
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Steel",
 		"promotions": [
 			"[Jaguar] ability",
 			"Woodsman"
