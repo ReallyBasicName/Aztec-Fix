@@ -6,7 +6,7 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 14,
-		"cost": 40,
+		"cost": 75,
 		"requiredTech": "Metal Casting",
 		"obsoleteTech": "Iron Working",
 		"promotions": [
