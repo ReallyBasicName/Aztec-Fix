@@ -3,9 +3,9 @@
 		"name": "Jaguar",
 		"unitType": "Sword",
 		"uniqueTo": "Aztecs",
-		"replaces": "Warrior",
+		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 8,
+		"strength": 14,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"promotions": [
