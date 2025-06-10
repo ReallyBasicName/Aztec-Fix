@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Jaguar",
+		"name": "Ocēlōtl",
 		"unitType": "Sword",
 		"uniqueTo": "Aztecs",
 		"replaces": "Swordsman",
@@ -10,10 +10,30 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Steel",
 		"promotions": [
-			"[Jaguar] ability",
+			"[Ocēlōtl] ability",
 			"Woodsman"
 		],
 		"upgradesTo": "Longswordsman",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Cuāuhtli",
+		"unitType": "Sword",
+		"uniqueTo": "Aztecs1",
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 24,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": [
+			"Comment [[+25]% Strength vs anti-cavalry units]",
+			"[+25]% Strength <vs [Spearman] units> <hidden from users>",
+			"[+25]% Strength <vs [Pikeman] units> <hidden from users>",
+			"[+25]% Strength <vs [Lancer] units> <hidden from users>",
+		],
+		"attackSound": "metalhit"
 	},
 ]

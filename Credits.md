@@ -1,0 +1,4 @@
+- Montezuma's Aztecs: Base Game
+- Cuauhtémoc's Aztecs: [Mexicayotl](https://commons.wikimedia.org/wiki/File:Mexicayotl.jpg) by Keilym2824
+- Eagle Warrior: [Eagle Warrior](https://thenounproject.com/icon/eagle-warrior-6792241/) by Fath Yusuf Iskhaqy
+- Calmecac: [Amate Bark Paper](https://thenounproject.com/icon/amate-bark-paper-6792226/) by Fath Yusuf Iskhaqy

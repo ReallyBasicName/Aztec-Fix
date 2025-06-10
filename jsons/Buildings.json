@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Floating Gardens",
+		"name": "Chinampa",
 		"replaces": "Water Mill",
 		"uniqueTo": "Aztecs",
 		"food": 2,
@@ -14,4 +14,19 @@
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"
 	}
+	{
+		"name": "Calmecac",
+		"replaces": "University",
+		"uniqueTo": "Aztecs1",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": [
+			"[+2 Science] from [Jungle] tiles [in this city]",
+			"New [Military] units start with [15] XP [in this city]"
+		],
+		"requiredTech": "Education"
+	},
 ]
